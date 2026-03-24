@@ -1,0 +1,10 @@
+main {
+  padding-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .media-list {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}

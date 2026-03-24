@@ -1,0 +1,21 @@
+.contact-page {
+  padding: 48px 20px;
+}
+
+.contact-page__inner {
+  max-width: 580px;
+  margin: 0 auto;
+}
+
+.contact-page__heading {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 10px;
+  color: #f1f5f9;
+}
+
+.contact-page__sub {
+  color: #94a3b8;
+  margin: 0 0 36px;
+  font-size: 1rem;
+}
